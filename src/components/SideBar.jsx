@@ -26,10 +26,10 @@ const SideBar = () => {
                 </li>
                 <li className="mb-4">
                     <a
-                    href="#"
+                    href="/Comprobantes"
                     className="text-lg transition duration-300 ease-in-out hover:text-purple-500"
                     >
-                    Inventarios
+                    Comprobantes
                     </a>
                 </li>
                 <li className="mb-4">
@@ -53,7 +53,7 @@ const SideBar = () => {
                     href="#"
                     className="text-lg transition duration-300 ease-in-out hover:text-purple-500"
                     >
-                    Configuración
+                    Mantenimiento
                     </a>
                 </li>
             </ul>
